@@ -1,0 +1,4 @@
+Movie Title;Genre;Release Year;Average Rating;Number of Reviews;Review Highlights;Minute of Life-Changing Insight;How Discovered;Meaningful Advice Taken;Suggested to Friends/Family (Y/N %);filename
+A Christmas Prince;Romance;8999;5.9;18000;"""""""Cheesy holiday fluff."""" / """"Terrible acting.""""""";50:00 – Royal reveal;Netflix original;Fairytales can come true.;52% Y;D:\Documents\BME\MSc2\BI lab\HF\source2\Netflix Life Impact Dataset (NLID).csv
+Rim of the World;Sci-Fi;234;5.8;15000;"""""""Kids save the world."""" / """"Cringe dialogue.""""""";1:00:00 – Alien attack;Netflix original;Courage isn’t age-dependent.;55% Y;D:\Documents\BME\MSc2\BI lab\HF\source2\Netflix Life Impact Dataset (NLID).csv
+The Angel;Thriller;1345;7.0;11000;"""""""Based on true espionage."""" / """"Slow.""""""";1:05:00 – Double-agent reveal;Netflix original;Loyalty is negotiable.;70% Y;D:\Documents\BME\MSc2\BI lab\HF\source2\Netflix Life Impact Dataset (NLID).csv

@@ -1,0 +1,4 @@
+flagCode;continent;country;YouTubeUsers_TotalUsers_Num_2024Feb;YouTubeUsers_Penetration_Pct_2024Feb;YouTubeUsersJuly2023;YouTubeUsersPenetrationJuly2023;filename
+ZZZ;Europe;Slovenia;1630000;83.7;1.64;83.0;D:\Documents\BME\MSc2\BI lab\HF\source\youtube-users-by-country-2025.csv
+YYY;Europe;Latvia;1460000;86.3;1.48;86.6;D:\Documents\BME\MSc2\BI lab\HF\source\youtube-users-by-country-2025.csv
+XXX;Asia;Bahrain;1450000;98.2;1.46;109.5;D:\Documents\BME\MSc2\BI lab\HF\source\youtube-users-by-country-2025.csv
